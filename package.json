@@ -1,0 +1,17 @@
+{
+  "name": "test-google_cloud",
+  "version": "1.0.0",
+  "description": "this project is a test google cloud",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Bryan Ulises",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
